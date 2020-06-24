@@ -1,0 +1,23 @@
+{
+  "name": "metadata-extractor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.3",
+    "@storybook/react": "^5.3.19",
+    "@types/node": "^14.0.13",
+    "@types/react": "^16.9.38",
+    "babel-loader": "^8.1.0",
+    "typescript": "^3.9.5"
+  }
+}
